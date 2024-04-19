@@ -39,5 +39,6 @@
   },
   "require-dev": {
     "spatie/ignition": "^1.13"
-  }
+  },
+  "version": "1.0.0"
 }
