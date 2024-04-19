@@ -4,6 +4,7 @@
   "description": "A framework built by Nina.",
   "keywords": ["nina", "framework"],
   "license": "MIT",
+  "minimum-stability": "dev",
   "autoload": {
     "files": [
       "src/Core/functions.php"
