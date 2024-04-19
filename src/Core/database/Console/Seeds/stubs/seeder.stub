@@ -1,0 +1,17 @@
+<?php
+
+namespace {{ namespace }};
+
+use NINA\Database\Console\Seeds\WithoutModelEvents;
+use NINA\Database\Seeder;
+
+class {{ class }} extends Seeder
+{
+    /**
+     * Run the database seeds.
+     */
+    public function run(): void
+    {
+        //
+    }
+}
